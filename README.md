@@ -13,7 +13,7 @@ La pagina di accesso dovrà essere "mobile first" e utilizzabile su ogni tipolog
 
 Nel progetto è disponibile una pagina di esempio (src/spid-sp-access-button.html)
 
-Il sistema richiede Jquery 1.8+.
+Il sistema non richiede dipendenze esterne (jQuery rimosso, ora utilizza vanilla JavaScript).
 
 
 ## Aggiornamenti

@@ -1,7 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(ls -la /c/Users/riccardo.lecca/Documents/Projects/spid-sp-access-button/ | grep -E \"\\\\.\\(json|js|html|xml\\)$\")"
-    ]
-  }
-}
